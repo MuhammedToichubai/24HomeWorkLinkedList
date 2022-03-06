@@ -25,7 +25,7 @@ public class Main {
         }
         System.out.println("arrayList: "+arrayList);
         System.out.print("sorted array list: ");
-        sort(arrayList);  //Overload мето 2.
+        sort(arrayList);  //Overload метод 2.
         System.out.println("_________________________________________________");
 
         LinkedList<Integer> linkedList = new LinkedList<>();
@@ -34,7 +34,7 @@ public class Main {
         }
         System.out.println("linkedList: "+linkedList);
         System.out.print("sorted linked list: ");
-        sort(linkedList);  //Overload мето 3.
+        sort(linkedList);  //Overload метод 3.
         System.out.println("_________________________________________________");
 
     }
