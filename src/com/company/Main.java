@@ -34,10 +34,11 @@ public class Main {
         }
         System.out.println("linkedList: "+linkedList);
         System.out.print("sorted linked list: ");
-        sort(arrayList);  //Overload мето 3.
+        sort(linkedList);  //Overload мето 3.
         System.out.println("_________________________________________________");
 
     }
+
 
 
 
@@ -71,7 +72,7 @@ public class Main {
         System.out.println(list);
 
     }
-    
+
 }
 
 
